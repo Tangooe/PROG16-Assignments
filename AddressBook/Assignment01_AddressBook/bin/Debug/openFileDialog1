@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contact>
+  <Contact>
+    <Name>Nils Nilsson</Name>
+    <Address>MyStreet 17B</Address>
+    <AreaCode>64635</AreaCode>
+    <City>Gnesta</City>
+    <Phone>0705555555</Phone>
+    <Email>mail@gmail.com</Email>
+  </Contact>
+  <Contact>
+    <Name>Emil Ekman</Name>
+    <Address>MyStreet 17B</Address>
+    <AreaCode>64635</AreaCode>
+    <City>Gnesta</City>
+    <Phone>0705555555</Phone>
+    <Email>mail@gmail.com</Email>
+  </Contact>
+  <Contact>
+    <Name>Perly Gustavsson</Name>
+    <Address>MyStreet 17B</Address>
+    <AreaCode>64635</AreaCode>
+    <City>Gnesta</City>
+    <Phone>0705555555</Phone>
+    <Email>mail@gmail.com</Email>
+  </Contact>
+  <Contact>
+    <Name>Osten Regnbåge</Name>
+    <Address>MyStreet 17B</Address>
+    <AreaCode>64635</AreaCode>
+    <City>Gnesta</City>
+    <Phone>0705555555</Phone>
+    <Email>mail@gmail.com</Email>
+  </Contact>
+  <Contact>
+    <Name>Kalle Banan</Name>
+    <Address>MyStreet 17B</Address>
+    <AreaCode>64635</AreaCode>
+    <City>Gnesta</City>
+    <Phone>0705555555</Phone>
+    <Email>mail@gmail.com</Email>
+  </Contact>
+</Contact>
